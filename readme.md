@@ -21,3 +21,9 @@ program.option('-d --dest <dest>', 'a destination folder, 例如： -d /src/comp
 console.log(program.dest)
 
 ```
+
+
+```
+PS E:\code\node_cli> mic create create demo abc cba
+create [ 'demo', 'abc', 'cba' ]
+```
