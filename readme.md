@@ -27,3 +27,5 @@ console.log(program.dest)
 PS E:\code\node_cli> mic create create demo abc cba
 create [ 'demo', 'abc', 'cba' ]
 ```
+
+## help -> create -> actions
