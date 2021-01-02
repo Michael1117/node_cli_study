@@ -15,5 +15,8 @@
   "devDependencies": {
     "commander": "^6.2.1",
     "download-git-repo": "^3.0.2"
+  },
+  "dependencies": {
+    "open": "^7.3.0"
   }
 }
